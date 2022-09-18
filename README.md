@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I'm currently working on my senior year project which is Mermin and Ardehali test on IBM Quantum Computer.
-- 🌱 I’m currently learning Java,Javascript
+- 🌱 I’m currently learning Kotlin
 <!--
 **yagizgokce/yagizgokce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
